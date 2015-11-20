@@ -1,3 +1,6 @@
+body{
+  background-color: #92BAE4;
+}
 .widget {
   width: 300px;
   margin: 10px auto 0;
@@ -13,6 +16,10 @@
   font-size: 12px;
 }
 
+.user-input{
+  text-align: center;
+  margin: 60px;
+}
 .btn-play {
   margin: 9px;
   width: 60px;
